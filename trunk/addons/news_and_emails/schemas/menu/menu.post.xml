@@ -1,0 +1,6 @@
+<content>
+	<item title="site_news" dispatch="news.manage" />
+	<item title="newsletters" dispatch="newsletters.manage" />
+	<item title="mailing_lists" dispatch="mailing_lists.manage" />
+	<item title="subscribers" dispatch="subscribers.manage" />
+</content>

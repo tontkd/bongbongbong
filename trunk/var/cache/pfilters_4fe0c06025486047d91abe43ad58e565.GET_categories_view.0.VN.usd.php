@@ -1,0 +1,38 @@
+<?php
+ if ( !defined('AREA') )	{ die('Access denied');	}
+ $_cache_data = array (
+  0 => 
+  array (
+    1 => 
+    array (
+      'feature_id' => '0',
+      'filter_id' => '1',
+      'field_type' => 'P',
+      'filter' => 'Price',
+      'prefix' => NULL,
+      'suffix' => NULL,
+      'condition_type' => 'D',
+      'ranges' => 
+      array (
+        1 => 
+        array (
+          'products' => '5',
+          'range_id' => '1',
+          'range_name' => '%0:price% - %50:price%',
+          'filter_id' => '1',
+        ),
+        2 => 
+        array (
+          'products' => '2',
+          'range_id' => '2',
+          'range_name' => '%50:price% - %100:price%',
+          'filter_id' => '1',
+        ),
+      ),
+    ),
+  ),
+  1 => 
+  array (
+  ),
+)
+?>

@@ -1,0 +1,3 @@
+{* $Id: info.post.tpl 6483 2008-12-03 14:57:53Z zeke $ *}
+
+<div class="float-right"><img src="{$index_script}?dispatch=image.barcode.draw&amp;id={$order_info.order_id}&amp;type={$addons.barcode.type}&amp;width={$addons.barcode.width}&amp;height={$addons.barcode.height}&amp;xres={$addons.barcode.resolution}&amp;font={$addons.barcode.text_font}" alt="BarCode" width="{$addons.barcode.width}" height="{$addons.barcode.height}" /></div>

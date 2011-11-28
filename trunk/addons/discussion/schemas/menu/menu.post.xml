@@ -1,0 +1,3 @@
+<content>
+	<item title="comments_and_reviews" dispatch="discussion_manager.manage" />
+</content>

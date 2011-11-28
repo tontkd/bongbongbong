@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<addon>
+	<id>store_locator</id>
+	<name>Store locator</name>
+	<priority>1</priority>
+	<position>10</position>
+	<status>active</status>
+	<dependencies></dependencies>
+	<opt_settings>
+		<item id="google_key">
+			<name>Google key (http://code.google.com/apis/maps/signup.html)</name>
+			<type>input</type>
+			<default_value></default_value>
+			<translations>
+			</translations>
+		</item>
+	</opt_settings>
+</addon>

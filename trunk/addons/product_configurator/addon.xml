@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<addon>
+	<id>product_configurator</id>
+	<name>Product configurator</name>
+	<priority>1</priority>
+	<position>150</position>
+	<status>active</status>
+	<dependencies></dependencies>
+	<translations>
+		<item for="name" lang="ES">Configurador de productos</item>
+		<item for="name" lang="FR">Configurateur de produit</item>
+	</translations>
+</addon>

@@ -1,0 +1,484 @@
+[30-Oct-2009 08:24:19] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[30-Oct-2009 09:44:19] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[02-Nov-2009 02:31:51] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 04:38:26] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:09:07] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:09:28] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:09:28] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:10:22] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:10:22] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:10:41] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:10:41] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:08] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:09] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:21] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:22] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:39] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:11:40] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:11] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:18] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:24] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:24] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:42] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:42] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:59] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:12:59] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 05:13:19] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 06:43:32] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 06:51:08] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:45:32] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:45:51] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:22] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:26] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:30] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:38] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:42] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:43] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:46:59] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:47:00] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:47:20] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[04-Nov-2009 09:47:20] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:25:27] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:25:50] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:26:05] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:26:05] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:26:09] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:26:13] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[05-Nov-2009 03:26:18] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[06-Nov-2009 02:42:26] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[07-Nov-2009 07:42:22] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[09-Nov-2009 02:52:07] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[09-Nov-2009 02:52:28] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[10-Nov-2009 04:39:28] PHP Fatal error:  Call to undefined function  imagefttext() in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 329
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 12:02:07] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 12:02:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 12:02:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 12:02:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:35:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:35:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:35:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:35:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:35:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:35:39] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:35:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:35:48] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:35:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:35:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:35:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:35:59] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:35:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:35:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:36:11] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:36:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:36:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:36:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:36:16] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:36:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 14:36:19] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 14:36:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 14:36:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:37:46] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:37:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:37:49] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:37:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:37:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:55] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 345
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:37:55] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:37:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:37:55] PHP Fatal error:  HTTP headers are already sent in /home/cubeo/public_html/shop/prepare.php on line 55. Possibly you have extra spaces (or newlines) before first line of the script or any library. Please note that Subsys_Ajax uses its own Content-Type header and fails if this header cannot be set. See header() function documentation for details in /home/cubeo/public_html/shop/core/class.ajax.php on line 52
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:26] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:27] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:37] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:47] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:38:58] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:38:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:38:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:39:00] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:39:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:39:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:43:03] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:43:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:43:14] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:43:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:43:36] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:43:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:43:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:53:15] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:53:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:53:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:53:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 253
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 254
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 255
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/core/class.session.php on line 256
+[13-Nov-2009 15:53:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:53:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/class.session.php on line 232
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/core/fn.init.php on line 401
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/lib/captcha/captcha.php on line 345
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 55
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 56
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 57
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 58
+[13-Nov-2009 15:53:17] PHP Warning:  ini_set() has been disabled for security reasons in /home/cubeo/public_html/shop/prepare.php on line 59
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 73
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 74
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 79
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 80
+[13-Nov-2009 15:53:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cubeo/public_html/shop/prepare.php:55) in /home/cubeo/public_html/shop/prepare.php on line 81
+[13-Nov-2009 15:53:17] PHP Fatal error:  HTTP headers are already sent in /home/cubeo/public_html/shop/prepare.php on line 55. Possibly you have extra spaces (or newlines) before first line of the script or any library. Please note that Subsys_Ajax uses its own Content-Type header and fails if this header cannot be set. See header() function documentation for details in /home/cubeo/public_html/shop/core/class.ajax.php on line 52
