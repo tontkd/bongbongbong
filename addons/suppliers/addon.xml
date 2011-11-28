@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<addon>
+	<id>suppliers</id>
+	<name>Suppliers</name>
+	<priority>1</priority>
+	<position>210</position>
+	<status>active</status>
+	<dependencies></dependencies>
+	<translations>
+		<item for="name" lang="ES">Proveedores</item>
+	</translations>
+	<opt_settings>
+		<item id="display_supplier">
+			<name>Display product supplier company</name>
+			<type>checkbox</type>
+			<default_value>Y</default_value>
+			<translations>
+				<item lang="ES">Mostrar compañía del fabricante del producto</item>
+			</translations>
+		</item>
+		<item id="multiple_selectboxes">
+			<name>Multiple shipping method selectboxes</name>
+			<type>checkbox</type>
+			<default_value>Y</default_value>
+			<translations>
+			</translations>
+		</item>
+	</opt_settings>
+</addon>

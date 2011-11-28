@@ -1,0 +1,60 @@
+/* $Id: styles.css 7782 2009-08-04 12:56:07Z alexions $ */
+
+.hot-deals-container {
+	position: relative;
+}
+
+.hot-deals-list {
+    overflow: hidden;
+    position: relative;
+    left: 5px;
+    min-height: 110px;
+    width: 500px;
+}
+
+.hot-deals-item {
+    float: left;
+    list-style: none;
+    width: 113px;
+    margin: 0 5px;
+}
+
+.hot-deals-container {
+    width: 500px;
+    padding: 20px 35px;
+}
+
+.hot-deals-next {
+    position: absolute;
+    top: 43px;
+    right: 6px;
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+    background: transparent url(../../images/icons/next_btn.gif) no-repeat 0 0;
+}
+
+.hot-deals-prev {
+    position: absolute;
+    top: 43px;
+    left: 17px;
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+    background: transparent url(../../images/icons/prev_btn.gif) no-repeat 0 0;
+}
+
+.deals-footer {
+	padding: 8px;
+	margin: 3px;
+}
+
+.deals-footer a.active {
+	font-weight: bold;
+}
+
+.deals-main .pagination {
+	margin: -15px 15px -5px;
+	float: right;
+	padding-left: 3px;
+}

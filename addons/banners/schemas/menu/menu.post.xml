@@ -1,0 +1,7 @@
+<content>
+	<item title="banners" dispatch="banners.manage" />
+
+	<side>
+		<item group="banners.manage" title="banners_statistics" href="%INDEX_SCRIPT?dispatch=statistics.banners" />
+	</side>
+</content>

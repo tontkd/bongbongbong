@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<addon>
+	<id>polls</id>
+	<name>Polls</name>
+	<priority>1</priority>
+	<position>0</position>
+	<status>active</status>
+	<dependencies></dependencies>
+	<opt_settings>
+		<item id="polls_votes_on_page">
+			<name>Votes on page</name>
+			<type>input</type>
+			<default_value>20</default_value>
+			<translations>
+			</translations>
+		</item>
+		<item id="polls_comments_on_page">
+			<name>Answers on page</name>
+			<type>input</type>
+			<default_value>20</default_value>
+			<translations>
+			</translations>
+		</item>
+	</opt_settings>
+</addon>

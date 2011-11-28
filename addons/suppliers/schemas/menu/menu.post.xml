@@ -1,0 +1,3 @@
+<users>
+	<item title="suppliers" links_group="users" dispatch="profiles.manage" extra="user_type=S" />
+</users>

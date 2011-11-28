@@ -1,0 +1,21 @@
+DirectoryIndex index.html index.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+# Some hostings require RewriteBase to be uncommented
+# Example:
+# Your store url is http://www.yourcompany.com/store/cart
+# So "RewriteBase" should be:
+# RewriteBase /store/cart 
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !\.(png|gif|ico|swf|jpe?g|js|css)$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php?sef_rewrite=1 [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} .*\/catalog\/.*
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_FILENAME}/index.html !-f
+RewriteRule . index.php?sef_rewrite=1 [L,QSA]
+
+</IfModule>

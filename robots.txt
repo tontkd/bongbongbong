@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /classes/
+Disallow: /images/
+Disallow: /skins/
+Disallow: /payments/
+Disallow: /image.php
+Disallow: /admin.php
+Disallow: /store_closed.html
