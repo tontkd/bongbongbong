@@ -86,11 +86,11 @@
     'company_website' => 'http://www.freeshareall.com/',
     'company_zipcode' => '02116',
     'company_country' => 'US',
-    'company_users_department' => 'root@gmail.com',
-    'company_site_administrator' => 'root@gmail.com',
-    'company_orders_department' => 'root@gmail.com',
-    'company_support_department' => 'root@gmail.com',
-    'company_newsletter_email' => 'root@gmail.com',
+    'company_users_department' => 'quang_lac@juno.com',
+    'company_site_administrator' => 'quang_lac@juno.com',
+    'company_orders_department' => 'quang_lac@juno.com',
+    'company_support_department' => 'quang_lac@juno.com',
+    'company_newsletter_email' => 'quang_lac@juno.com',
     'company_start_year' => '2005',
   ),
   'Shippings' => 
@@ -140,7 +140,7 @@
     ),
   ),
   'skin_name_admin' => 'basic',
-  'skin_name_customer' => 'toy_store',
+  'skin_name_customer' => 'default_magenta',
   'DHTML' => 
   array (
     'customer_ajax_based_pagination' => 'Y',
@@ -181,7 +181,7 @@
     'use_for_polls' => 'Y',
     'hide_after_validation' => 'Y',
   ),
-  'cart_products_next_check' => '1322509293',
+  'cart_products_next_check' => '1322786948',
   'translation_mode' => 'N',
   'customization_mode' => 'N',
   'Logging' => 
