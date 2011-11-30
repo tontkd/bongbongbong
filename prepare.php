@@ -46,7 +46,11 @@ if (isset($_SERVER['HTTP_X_FORWARDED_HOST'])) {
 	define('REAL_HOST', $_SERVER['HTTP_HOST']);
 }
 
-set_magic_quotes_runtime(0);
+if(get_magic_quotes_runtime())
+{
+    set_magic_quotes_runtime(false);
+}
+//set_magic_quotes_runtime(0);
 
 if (get_magic_quotes_gpc()) {
 	define('QUOTES_ENABLED', true);
