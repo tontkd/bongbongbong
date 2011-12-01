@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 13:18:26
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:26:54
          compiled from addons/wishlist/views/wishlist/components/add_to_wishlist.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
