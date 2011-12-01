@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 13:22:51
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:27:56
          compiled from blocks/locations/categories/left.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -15,4 +15,5 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'block', 'bl
 <?php echo smarty_function_block(array('id' => 12,'template' => "addons/tags/blocks/user_tag_cloud.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 
 <?php echo smarty_function_block(array('id' => 17,'template' => "addons/gift_registry/blocks/giftregistry.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
+
 <?php  ob_end_flush();  ?>

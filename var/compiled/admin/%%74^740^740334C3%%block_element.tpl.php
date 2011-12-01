@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 12:09:57
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:23:27
          compiled from views/block_manager/components/block_element.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>

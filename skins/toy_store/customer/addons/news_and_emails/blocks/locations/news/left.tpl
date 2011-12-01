@@ -3,5 +3,5 @@
 {block id=2 template="blocks/pages_dynamic.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
 {block id=3 template="blocks/products_text_links.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
 {block id=12 template="addons/tags/blocks/user_tag_cloud.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
-
 {block id=17 template="addons/gift_registry/blocks/giftregistry.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
+

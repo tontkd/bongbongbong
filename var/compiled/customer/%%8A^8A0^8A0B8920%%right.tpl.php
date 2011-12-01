@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 12:21:47
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:28:04
          compiled from blocks/locations/all_pages/right.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -8,14 +8,12 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'block', 'bl
 
 <?php echo smarty_function_block(array('id' => 5,'template' => "blocks/my_account.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 
-<?php echo smarty_function_block(array('id' => 16,'template' => "addons/affiliate/blocks/affiliate.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
-
-<?php echo smarty_function_block(array('id' => 6,'template' => "addons/news_and_emails/blocks/news.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
-
 <?php echo smarty_function_block(array('id' => 7,'template' => "addons/news_and_emails/blocks/subscribe.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 
 <?php echo smarty_function_block(array('id' => 8,'template' => "blocks/products_text_links.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 
 <?php echo smarty_function_block(array('id' => 10,'template' => "blocks/feature_comparison.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
+
+
 
 <?php  ob_end_flush();  ?>

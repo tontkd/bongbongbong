@@ -1,9 +1,9 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 11:47:33
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:22:05
          compiled from index.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('block', 'hook', 'index.tpl', 32, false),array('modifier', 'defined', 'index.tpl', 33, false),array('modifier', 'escape', 'index.tpl', 44, false),array('modifier', 'fn_query_remove', 'index.tpl', 123, false),array('modifier', 'strpos', 'index.tpl', 124, false),array('modifier', 'fn_link_attach', 'index.tpl', 134, false),array('modifier', 'fn_get_notifications', 'index.tpl', 160, false),array('modifier', 'lower', 'index.tpl', 162, false),array('modifier', 'default', 'index.tpl', 182, false),array('modifier', 'unescape', 'index.tpl', 182, false),array('function', 'script', 'index.tpl', 38, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('block', 'hook', 'index.tpl', 32, false),array('modifier', 'defined', 'index.tpl', 38, false),array('modifier', 'escape', 'index.tpl', 49, false),array('modifier', 'fn_query_remove', 'index.tpl', 128, false),array('modifier', 'strpos', 'index.tpl', 129, false),array('modifier', 'fn_link_attach', 'index.tpl', 139, false),array('modifier', 'fn_get_notifications', 'index.tpl', 165, false),array('modifier', 'lower', 'index.tpl', 167, false),array('modifier', 'default', 'index.tpl', 187, false),array('modifier', 'unescape', 'index.tpl', 187, false),array('function', 'script', 'index.tpl', 43, false),)), $this); ?>
 <?php
 fn_preload_lang_vars(array('admin_panel','cannot_buy','no_products_selected','error_no_items_selected','delete_confirmation','text_out_of_stock','items','text_required_group_product','save','close','loading','notice','warning','error','text_are_you_sure_to_proceed','text_invalid_url','error_validator_email','error_validator_confirm_email','error_validator_phone','error_validator_integer','error_validator_multiple','error_validator_password','error_validator_required','error_validator_zipcode','error_validator_message','text_page_loading','loading','close','close'));
 ?>
@@ -36,7 +36,13 @@ fn_preload_lang_vars(array('admin_panel','cannot_buy','no_products_selected','er
 <![endif]-->
 <link href="<?php echo $__tpl_vars['config']['skin_path']; ?>
 /custom_styles.css" rel="stylesheet" type="text/css" />
-<?php $this->_tag_stack[] = array('hook', array('name' => "index:styles")); $_block_repeat=true;smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?><?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?><?php if (isset($__parent_tpl_vars)) { $__tpl_vars = $__parent_tpl_vars; unset($__parent_tpl_vars);} ?>
+<?php $this->_tag_stack[] = array('hook', array('name' => "index:styles")); $_block_repeat=true;smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?><?php if ($__tpl_vars['addons']['magicslideshow']['status'] == 'A'): ?><?php $__parent_tpl_vars = $__tpl_vars; ?><?php echo '
+<style type="text/css">
+#tabs_content_magicslideshow .form-field { padding: 6px 5px 6px 250px !important; }
+#tabs_content_magicslideshow .form-field > label { margin-left: -250px !important; width: 240px !important;}
+</style>
+'; ?>
+<?php if (isset($__parent_tpl_vars)) { $__tpl_vars = $__parent_tpl_vars; unset($__parent_tpl_vars);} ?><?php endif; ?><?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?><?php if (isset($__parent_tpl_vars)) { $__tpl_vars = $__parent_tpl_vars; unset($__parent_tpl_vars);} ?>
 <?php if (defined('TRANSLATION_MODE')): ?>
 <link href="<?php echo $__tpl_vars['config']['skin_path']; ?>
 /design_mode.css" rel="stylesheet" type="text/css" />
@@ -159,7 +165,7 @@ fn_preload_lang_vars(array('admin_panel','cannot_buy','no_products_selected','er
 </script>
 
 <?php $this->_tag_stack[] = array('hook', array('name' => "index:scripts")); $_block_repeat=true;smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
-<?php if ($__tpl_vars['addons']['banners']['status'] == 'A'): ?><?php $__parent_tpl_vars = $__tpl_vars; ?>
+<?php if ($__tpl_vars['addons']['magicslideshow']['status'] == 'A'): ?><?php $__parent_tpl_vars = $__tpl_vars; ?><?php if (isset($__parent_tpl_vars)) { $__tpl_vars = $__parent_tpl_vars; unset($__parent_tpl_vars);} ?><?php endif; ?><?php if ($__tpl_vars['addons']['banners']['status'] == 'A'): ?><?php $__parent_tpl_vars = $__tpl_vars; ?>
 
 <?php echo smarty_function_script(array('src' => "addons/banners/js/func.js"), $this);?>
 

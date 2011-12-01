@@ -50,7 +50,7 @@
   ),
   'Appearance' => 
   array (
-    'products_per_page' => '10',
+    'products_per_page' => '12',
     'admin_products_per_page' => '10',
     'admin_elements_per_page' => '10',
     'thumbnail_width' => '85',
@@ -65,7 +65,7 @@
     'default_products_sorting' => 'product',
     'time_format' => '%H:%M',
     'show_prices_taxed_clean' => 'N',
-    'timezone' => 'Etc/GMT-4',
+    'timezone' => 'Pacific/Kwajalein',
     'cart_prices_w_taxes' => 'N',
     'taxes_using_default_address' => 'N',
     'calendar_date_format' => 'month_first',
@@ -140,7 +140,7 @@
     ),
   ),
   'skin_name_admin' => 'basic',
-  'skin_name_customer' => 'default_magenta',
+  'skin_name_customer' => 'toy_store',
   'DHTML' => 
   array (
     'customer_ajax_based_pagination' => 'Y',
@@ -181,7 +181,7 @@
     'use_for_polls' => 'Y',
     'hide_after_validation' => 'Y',
   ),
-  'cart_products_next_check' => '1322786948',
+  'cart_products_next_check' => '1322692123',
   'translation_mode' => 'N',
   'customization_mode' => 'N',
   'Logging' => 

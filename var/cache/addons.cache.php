@@ -39,7 +39,7 @@
   array (
     'status' => 'A',
   ),
-  'gift_registry' => 
+  'magicslideshow' => 
   array (
     'status' => 'D',
   ),

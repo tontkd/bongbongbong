@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 12:00:54
+<?php /* Smarty version 2.6.18, created on 2011-11-30 23:22:07
          compiled from common_templates/subheader.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
