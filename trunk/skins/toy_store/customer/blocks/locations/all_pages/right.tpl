@@ -3,5 +3,3 @@
 {block id=7 template="addons/news_and_emails/blocks/subscribe.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
 {block id=8 template="blocks/products_text_links.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
 {block id=10 template="blocks/feature_comparison.tpl" wrapper="blocks/wrappers/sidebox_general.tpl"}
-
-
