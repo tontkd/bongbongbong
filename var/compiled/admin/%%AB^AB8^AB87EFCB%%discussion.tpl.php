@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 12:29:28
+<?php /* Smarty version 2.6.18, created on 2011-12-01 22:19:10
          compiled from addons/discussion/views/discussion_manager/components/discussion.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>

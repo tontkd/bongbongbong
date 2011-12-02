@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-30 23:22:19
+<?php /* Smarty version 2.6.18, created on 2011-12-01 22:11:10
          compiled from addons/age_verification/hooks/products/product_multicolumns_list.override.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>

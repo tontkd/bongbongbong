@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-28 11:48:59
+<?php /* Smarty version 2.6.18, created on 2011-12-01 22:44:08
          compiled from buttons/multiple_buttons.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>

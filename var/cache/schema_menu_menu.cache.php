@@ -133,6 +133,20 @@
 	<item title="mailing_lists" dispatch="mailing_lists.manage" />
 	<item title="subscribers" dispatch="subscribers.manage" />
 </content>
+<users>
+	<item title="events" dispatch="events.search" />
+
+	<side>
+		<item group="events.search" title="custom_event_fields" href="%INDEX_SCRIPT?dispatch=events.field_editor" />
+
+		<item group="events.add" title="search_for_events" href="%INDEX_SCRIPT?dispatch=events.search" />
+		<item group="events.add" title="custom_event_fields" href="%INDEX_SCRIPT?dispatch=events.field_editor" />
+
+		<item group="events.update" title="add_event" href="%INDEX_SCRIPT?dispatch=events.add" />
+		<item group="events.update" title="search_for_events" href="%INDEX_SCRIPT?dispatch=events.search" />
+		<item group="events.update" title="custom_event_fields" href="%INDEX_SCRIPT?dispatch=events.field_editor" />
+	</side>
+</users>
 <orders>
 	<item title="gift_certificates" dispatch="gift_certificates.manage" />
 

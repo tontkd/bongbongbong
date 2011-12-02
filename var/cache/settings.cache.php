@@ -76,22 +76,22 @@
   ),
   'Company' => 
   array (
-    'company_state' => 'MS',
+    'company_state' => '',
     'company_city' => 'Boston',
-    'company_address' => '44 Main street',
-    'company_phone' => '6175556985',
+    'company_address' => '255/15 Hậu Giang, phường 5, quận 6, TP.HCM',
+    'company_phone' => '0908782706',
     'company_phone_2' => '',
     'company_fax' => '',
-    'company_name' => 'FreeShareAll.Com',
-    'company_website' => 'http://www.freeshareall.com/',
+    'company_name' => 'SHOP BONG BÓNG BAY',
+    'company_website' => 'http://www.bongbongbayfashion.com/',
     'company_zipcode' => '02116',
-    'company_country' => 'US',
-    'company_users_department' => 'quang_lac@juno.com',
-    'company_site_administrator' => 'quang_lac@juno.com',
-    'company_orders_department' => 'quang_lac@juno.com',
-    'company_support_department' => 'quang_lac@juno.com',
-    'company_newsletter_email' => 'quang_lac@juno.com',
-    'company_start_year' => '2005',
+    'company_country' => 'VN',
+    'company_users_department' => '',
+    'company_site_administrator' => '',
+    'company_orders_department' => '',
+    'company_support_department' => '',
+    'company_newsletter_email' => '',
+    'company_start_year' => '2010',
   ),
   'Shippings' => 
   array (
@@ -167,7 +167,7 @@
     'category_thumbnail_height' => '120',
     'thumbnail_background_color' => '#ffffff',
   ),
-  'gift_registry_next_check' => '1184813507',
+  'gift_registry_next_check' => '1322823912',
   'lh_visitor_data_last_clean' => '1160220364',
   'Image_verification' => 
   array (
@@ -181,7 +181,7 @@
     'use_for_polls' => 'Y',
     'hide_after_validation' => 'Y',
   ),
-  'cart_products_next_check' => '1322692123',
+  'cart_products_next_check' => '1322823889',
   'translation_mode' => 'N',
   'customization_mode' => 'N',
   'Logging' => 

@@ -118,6 +118,15 @@
   array (
     'text' => 'campaigns',
   ),
+  'events.update' => 
+  array (
+    'func' => 
+    array (
+      0 => 'fn_get_event_name',
+      1 => '@event_id',
+    ),
+    'text' => 'event',
+  ),
   'gift_certificates.update' => 
   array (
     'func' => 

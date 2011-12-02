@@ -43,6 +43,12 @@
   array (
     'status' => 'D',
   ),
+  'gift_registry' => 
+  array (
+    'event_creators' => 'registered',
+    'events_in_sidebox' => '2',
+    'status' => 'A',
+  ),
   'gift_certificates' => 
   array (
     'min_amount' => '50',

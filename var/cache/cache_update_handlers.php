@@ -13,6 +13,7 @@
     'schema_block_manager_block_controllers' => true,
     'schema_block_manager_structure' => true,
     'schema_block_manager_specific_settings' => true,
+    'schema_static_data_schema' => true,
   ),
   'addons' => 
   array (
@@ -22,6 +23,7 @@
     'schema_block_manager_block_controllers' => true,
     'schema_block_manager_structure' => true,
     'schema_block_manager_specific_settings' => true,
+    'schema_static_data_schema' => true,
   ),
   'static_data' => 
   array (
@@ -38,31 +40,19 @@
   ),
   'products' => 
   array (
-    'pfilters_1bf74acf81e2edae69c0fa38ed5fb7af' => true,
-    'pfilters_b9ada6da16186bf9a8979b9bb4f821ac' => true,
-    'pfilters_65f101a8c583dbecaa7caa0ec61b0cb5' => true,
-    'pfilters_6887e06f3015ccddecb87f005f5d57c5' => true,
+    'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
   ),
   'product_features' => 
   array (
-    'pfilters_1bf74acf81e2edae69c0fa38ed5fb7af' => true,
-    'pfilters_b9ada6da16186bf9a8979b9bb4f821ac' => true,
-    'pfilters_65f101a8c583dbecaa7caa0ec61b0cb5' => true,
-    'pfilters_6887e06f3015ccddecb87f005f5d57c5' => true,
+    'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
   ),
   'product_filters' => 
   array (
-    'pfilters_1bf74acf81e2edae69c0fa38ed5fb7af' => true,
-    'pfilters_b9ada6da16186bf9a8979b9bb4f821ac' => true,
-    'pfilters_65f101a8c583dbecaa7caa0ec61b0cb5' => true,
-    'pfilters_6887e06f3015ccddecb87f005f5d57c5' => true,
+    'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
   ),
   'product_features_values' => 
   array (
-    'pfilters_1bf74acf81e2edae69c0fa38ed5fb7af' => true,
-    'pfilters_b9ada6da16186bf9a8979b9bb4f821ac' => true,
-    'pfilters_65f101a8c583dbecaa7caa0ec61b0cb5' => true,
-    'pfilters_6887e06f3015ccddecb87f005f5d57c5' => true,
+    'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
   ),
 )
 ?>
