@@ -53,6 +53,7 @@
 
 {if $discussion.type == "R" || $discussion.type == "B"}
 <div class="form-field">
+
 	<label for="dsc_rating" class="cm-required">{$lang.your_rating}:</label>
 	<select id="dsc_rating" name="post_data[rating_value]">
 		<option value="5" selected="selected">{$lang.excellent}</option>

@@ -1,9 +1,9 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-01 22:05:19
+<?php /* Smarty version 2.6.18, created on 2011-12-04 22:06:05
          compiled from addons/discussion/views/discussion/view.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'fn_get_discussion_rating', 'addons/discussion/views/discussion/view.tpl', 1, false),array('modifier', 'fn_get_discussion', 'addons/discussion/views/discussion/view.tpl', 5, false),array('modifier', 'fn_get_discussion_posts', 'addons/discussion/views/discussion/view.tpl', 15, false),array('modifier', 'default', 'addons/discussion/views/discussion/view.tpl', 20, false),array('modifier', 'fn_query_remove', 'addons/discussion/views/discussion/view.tpl', 38, false),array('modifier', 'escape', 'addons/discussion/views/discussion/view.tpl', 38, false),array('modifier', 'date_format', 'addons/discussion/views/discussion/view.tpl', 85, false),array('modifier', 'nl2br', 'addons/discussion/views/discussion/view.tpl', 89, false),array('modifier', 'strpos', 'addons/discussion/views/discussion/view.tpl', 149, false),array('modifier', 'fn_needs_image_verification', 'addons/discussion/views/discussion/view.tpl', 185, false),array('modifier', 'uniqid', 'addons/discussion/views/discussion/view.tpl', 190, false),array('modifier', 'replace', 'addons/discussion/views/discussion/view.tpl', 227, false),array('function', 'script', 'addons/discussion/views/discussion/view.tpl', 23, false),array('function', 'cycle', 'addons/discussion/views/discussion/view.tpl', 71, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'fn_get_discussion_rating', 'addons/discussion/views/discussion/view.tpl', 1, false),array('modifier', 'fn_get_discussion', 'addons/discussion/views/discussion/view.tpl', 5, false),array('modifier', 'fn_get_discussion_posts', 'addons/discussion/views/discussion/view.tpl', 15, false),array('modifier', 'default', 'addons/discussion/views/discussion/view.tpl', 20, false),array('modifier', 'fn_query_remove', 'addons/discussion/views/discussion/view.tpl', 38, false),array('modifier', 'escape', 'addons/discussion/views/discussion/view.tpl', 38, false),array('modifier', 'date_format', 'addons/discussion/views/discussion/view.tpl', 85, false),array('modifier', 'nl2br', 'addons/discussion/views/discussion/view.tpl', 89, false),array('modifier', 'strpos', 'addons/discussion/views/discussion/view.tpl', 149, false),array('modifier', 'fn_needs_image_verification', 'addons/discussion/views/discussion/view.tpl', 186, false),array('modifier', 'uniqid', 'addons/discussion/views/discussion/view.tpl', 191, false),array('modifier', 'replace', 'addons/discussion/views/discussion/view.tpl', 228, false),array('function', 'script', 'addons/discussion/views/discussion/view.tpl', 23, false),array('function', 'cycle', 'addons/discussion/views/discussion/view.tpl', 71, false),)), $this); ?>
 <?php
 fn_preload_lang_vars(array('navi_pages','navi_pages','no_posts_found','new_post','your_name','your_rating','excellent','very_good','average','fair','poor','your_message','image_verification_body','submit','delete','delete'));
 ?>
@@ -295,6 +295,7 @@ unset($_smarty_tpl_vars);
 
 <?php if ($__tpl_vars['discussion']['type'] == 'R' || $__tpl_vars['discussion']['type'] == 'B'): ?>
 <div class="form-field">
+lllllllllllllllllllllllllllllllllllllllllllllllllllllll
 	<label for="dsc_rating" class="cm-required"><?php echo fn_get_lang_var('your_rating', $this->getLanguage()); ?>
 :</label>
 	<select id="dsc_rating" name="post_data[rating_value]">
@@ -448,3 +449,4 @@ unset($_smarty_tpl_vars);
 
 <?php endif; ?>
 </div>
+

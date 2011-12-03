@@ -218,11 +218,16 @@ hr {
 
 /* Category page */
 .product-title, .product-title:visited, .product-title:hover, .product-title:active {
-	color: #014ead;
-	font: bold 12px Tahoma;
+	color: #909;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	font-size:16px;
+	text-decoration:none;
 }
 .list-price {
 	color: #555555;
+	font-family:"Comic Sans MS", cursive;
+	font-size:12px;
 }
 .price, .sub-price {
 	color: #990000;
@@ -234,8 +239,11 @@ hr {
 	color: #666666;
 }
 .sku {
-	font-size: 11px;
+	font-size: 13px;
 	padding: 6px 0px 3px 0px;
+	font-weight:bold;
+	color:#F09;
+	font-family:Verdana, Geneva, sans-serif;
 }
 /* /Category page */
 
@@ -655,8 +663,9 @@ hr {
 
 /* common sidebox style */
 .sidebox-title {
-	background: #cbeffa url('images/sb_title_left.gif') no-repeat left top;
+	background: #facbf3 url('images/sb_title_left.gif') no-repeat left top;
 	padding-left: 11px;
+	color:#C03;
 }
 .sidebox-title span {
 	display: block;
@@ -666,8 +675,8 @@ hr {
 }
 .sidebox-body {
 	background-color: #ffffff;
-	border-left: 2px solid #cbeffa;
-	border-right: 2px solid #cbeffa;
+	border-left: 2px solid #F9F;
+	border-right: 2px solid #F9F;
 	padding: 13px 13px 10px 14px;
 }
 .sidebox-bottom {
@@ -684,20 +693,22 @@ hr {
 /* categories sidebox style */
 .sidebox-categories-wrapper {
 	margin: 0px 2px 20px 1px;
+	background-color:#F6F;
 }
 .sidebox-categories-wrapper .sidebox-title {
-	background: #00baf0 url(images/sb_categ_title_left.gif) no-repeat left top;
+	background: #f335da url(images/sb_categ_title_left.gif) no-repeat left top;
 	padding-left: 10px;
+	color:#000;
 }
 .sidebox-categories-wrapper .sidebox-title span {
 	background: url(images/sb_categ_title_right.gif) no-repeat right top;
 	padding: 6px 0px 7px 0px;
-	color: #ffffff;
+	color:#000;
 }
 .sidebox-categories-wrapper .sidebox-body {
 	background-color: #ffffff;
-	border-right: 1px solid #aaebfe;
-	border-left: 1px solid #aaebfe;
+	border-right: 1px solid #C09;
+	border-left: 1px solid #C09;
 	padding: 4px 0 0 4px;
 }
 .sidebox-categories-wrapper .sidebox-bottom {

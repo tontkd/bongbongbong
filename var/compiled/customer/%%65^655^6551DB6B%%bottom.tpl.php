@@ -1,9 +1,9 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-01 22:05:19
+<?php /* Smarty version 2.6.18, created on 2011-12-04 22:01:42
          compiled from bottom.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('block', 'hook', 'bottom.tpl', 14, false),array('modifier', 'date_format', 'bottom.tpl', 15, false),array('modifier', 'defined', 'bottom.tpl', 28, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('block', 'hook', 'bottom.tpl', 16, false),array('modifier', 'date_format', 'bottom.tpl', 17, false),array('modifier', 'defined', 'bottom.tpl', 30, false),)), $this); ?>
 <?php
 fn_preload_lang_vars(array('copyright','powered_by','copyright_shopping_cart','skin_by'));
 ?>
@@ -16,7 +16,10 @@ $__tpl_vars = $_smarty_tpl_vars;
 unset($_smarty_tpl_vars);
  ?>
 </div>
-
+<div>
+<center><img src="<?php echo $__tpl_vars['images_dir']; ?>
+/customer_area_logo.png" /></center>
+</div>
 <p class="quick-links">
 	<?php $_from_1513176447 = & $__tpl_vars['quick_links']; if (!is_array($_from_1513176447) && !is_object($_from_1513176447)) { settype($_from_1513176447, 'array'); }if (count($_from_1513176447)):
     foreach ($_from_1513176447 as $__tpl_vars['link']):

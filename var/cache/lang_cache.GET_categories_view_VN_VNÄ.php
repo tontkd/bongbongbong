@@ -161,6 +161,12 @@ Bấm OK để lưu thay đổi hoặc huỷ bỏ để loại bỏ chúng.',
     'weekday_3' => 'Thứ 4',
     'month_name_abr_11' => 'Nov',
     'month_name_11' => 'Tháng 11',
+    'weekday_abr_6' => 'Sat',
+    'weekday_6' => 'Thứ 7',
+    'month_name_abr_12' => 'Dec',
+    'month_name_12' => 'Tháng 12',
+    'weekday_abr_0' => 'Sun',
+    'weekday_0' => 'Chủ nhật',
   ),
 )
 ?>

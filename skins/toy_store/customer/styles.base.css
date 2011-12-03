@@ -937,6 +937,7 @@ body {}
 	padding-left: 11px;
 }
 .sidebox-categories-wrapper .sidebox-title span {
+	color:#333;
 	padding: 8px 11px 7px 0px;
 	overflow: hidden;
 }
@@ -1008,6 +1009,7 @@ table.qty-discounts th, table.qty-discounts td {
 /* mainbox */
 .mainbox-container {
 	margin-bottom: 10px;
+	background-color:#fff5fe;
 }
 .mainbox-title {
 	padding: 2px 0px 12px 0px;

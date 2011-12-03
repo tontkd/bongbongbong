@@ -50,7 +50,7 @@
   ),
   'Appearance' => 
   array (
-    'products_per_page' => '10',
+    'products_per_page' => '12',
     'admin_products_per_page' => '10',
     'admin_elements_per_page' => '10',
     'thumbnail_width' => '85',
@@ -65,7 +65,7 @@
     'default_products_sorting' => 'product',
     'time_format' => '%H:%M',
     'show_prices_taxed_clean' => 'N',
-    'timezone' => 'Etc/GMT-4',
+    'timezone' => 'Pacific/Kwajalein',
     'cart_prices_w_taxes' => 'N',
     'taxes_using_default_address' => 'N',
     'calendar_date_format' => 'month_first',
@@ -76,22 +76,22 @@
   ),
   'Company' => 
   array (
-    'company_state' => 'MS',
+    'company_state' => '',
     'company_city' => 'Boston',
-    'company_address' => '44 Main street',
-    'company_phone' => '6175556985',
+    'company_address' => '255/15 Hậu Giang, phường 5, quận 6, TP.HCM',
+    'company_phone' => '0908782706',
     'company_phone_2' => '',
     'company_fax' => '',
-    'company_name' => 'FreeShareAll.Com',
-    'company_website' => 'http://www.freeshareall.com/',
+    'company_name' => 'SHOP BONG BÓNG BAY',
+    'company_website' => 'http://www.bongbongbayfashion.com/',
     'company_zipcode' => '02116',
-    'company_country' => 'US',
-    'company_users_department' => 'quang_lac@juno.com',
-    'company_site_administrator' => 'quang_lac@juno.com',
-    'company_orders_department' => 'quang_lac@juno.com',
-    'company_support_department' => 'quang_lac@juno.com',
-    'company_newsletter_email' => 'quang_lac@juno.com',
-    'company_start_year' => '2005',
+    'company_country' => 'VN',
+    'company_users_department' => '',
+    'company_site_administrator' => '',
+    'company_orders_department' => '',
+    'company_support_department' => '',
+    'company_newsletter_email' => '',
+    'company_start_year' => '2010',
   ),
   'Shippings' => 
   array (
@@ -140,7 +140,7 @@
     ),
   ),
   'skin_name_admin' => 'basic',
-  'skin_name_customer' => 'default_magenta',
+  'skin_name_customer' => 'toy_store',
   'DHTML' => 
   array (
     'customer_ajax_based_pagination' => 'Y',
@@ -161,13 +161,13 @@
     'convert_to' => 'original',
     'create_thumbnails' => 'Y',
     'resize_thumbnail' => 'Y',
-    'product_thumbnail_width' => '150',
-    'product_thumbnail_height' => '200',
+    'product_thumbnail_width' => '120',
+    'product_thumbnail_height' => '120',
     'category_thumbnail_width' => '120',
     'category_thumbnail_height' => '120',
     'thumbnail_background_color' => '#ffffff',
   ),
-  'gift_registry_next_check' => '1322995787',
+  'gift_registry_next_check' => '1323027876',
   'lh_visitor_data_last_clean' => '1160220364',
   'Image_verification' => 
   array (
@@ -181,7 +181,7 @@
     'use_for_polls' => 'Y',
     'hide_after_validation' => 'Y',
   ),
-  'cart_products_next_check' => '1322995787',
+  'cart_products_next_check' => '1323027876',
   'translation_mode' => 'N',
   'customization_mode' => 'N',
   'Logging' => 

@@ -15,6 +15,9 @@
 </ul>
 {/strip}
 </div>
+<div>
+<img src="{$images_dir}/main_banner.png" />
+</div>
 <span class="helper-block">&nbsp;</span>
 {elseif $items}
 <ul {if $dir == "left"}class="dropdown-vertical-rtl"{/if}>
