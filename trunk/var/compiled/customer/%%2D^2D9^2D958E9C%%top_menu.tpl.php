@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-01 22:05:17
+<?php /* Smarty version 2.6.18, created on 2011-12-04 20:17:04
          compiled from top_menu.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -12,6 +12,10 @@ $__tpl_vars = $_smarty_tpl_vars;
 unset($_smarty_tpl_vars);
  ?><?php endif; ?></li><?php endforeach; endif; unset($_from); ?></ul>
 
+</div>
+<div>
+<img src="<?php echo $__tpl_vars['images_dir']; ?>
+/main_banner.png" />
 </div>
 <span class="helper-block">&nbsp;</span>
 <?php elseif ($__tpl_vars['items']): ?>
@@ -38,4 +42,4 @@ unset($_smarty_tpl_vars);
 	<?php endif; ?>
 	<?php endforeach; endif; unset($_from); ?>
 </ul>
-<?php endif; ?>
+<?php endif; ?>

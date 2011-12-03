@@ -44,7 +44,7 @@
     'notice' => 'Thông báo',
     'no_products_selected' => 'Không có sản phẩm được lựa chọn',
     'or' => 'hoặc',
-    'page_title_text' => 'CS-Cart. Dịch By Quang_lac',
+    'page_title_text' => 'bongbongfashion',
     'restore_from_repository' => 'Khôi phục từ kho',
     'save' => 'Lưu lại',
     'save_translation' => 'Lưu dịch',

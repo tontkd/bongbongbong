@@ -148,6 +148,10 @@ Bấm OK để lưu thay đổi hoặc huỷ bỏ để loại bỏ chúng.',
     'month_name_12' => 'Tháng 12',
     'weekday_abr_5' => 'Fri',
     'weekday_5' => 'Thứ 6',
+    'weekday_abr_6' => 'Sat',
+    'weekday_6' => 'Thứ 7',
+    'weekday_abr_0' => 'Sun',
+    'weekday_0' => 'Chủ nhật',
   ),
 )
 ?>

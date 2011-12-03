@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-01 22:05:16
+<?php /* Smarty version 2.6.18, created on 2011-12-03 10:03:12
          compiled from blocks/locations/products/left.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -7,8 +7,6 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'block', 'bl
 <?php  ob_start();  ?><?php echo smarty_function_block(array('id' => 1,'template' => "blocks/categories_emenu.tpl",'wrapper' => "blocks/wrappers/sidebox_important.tpl"), $this);?>
 
 <?php echo smarty_function_block(array('id' => 15,'template' => "blocks/product_filters_extended.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
-
-<?php echo smarty_function_block(array('id' => 2,'template' => "blocks/pages_dynamic.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 
 <?php echo smarty_function_block(array('id' => 8,'template' => "blocks/products_small_items.tpl",'wrapper' => "blocks/wrappers/sidebox_general.tpl"), $this);?>
 

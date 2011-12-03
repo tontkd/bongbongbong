@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-11-30 23:28:04
+<?php /* Smarty version 2.6.18, created on 2011-12-03 10:03:58
          compiled from views/products/components/products_search_form.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>

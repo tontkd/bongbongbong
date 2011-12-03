@@ -5,7 +5,9 @@
 	<span class="float-right">&nbsp;</span>
 	{include file="common_templates/search.tpl" hide_advanced_search=true}
 </div>
-
+<div>
+<center><img src="{$images_dir}/customer_area_logo.png" /></center>
+</div>
 <p class="quick-links">
 	{foreach from=$quick_links item="link"}
 		<a href="{$link.param}">{$link.descr}</a>

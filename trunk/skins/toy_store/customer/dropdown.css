@@ -54,6 +54,7 @@ ul.dropdown li:hover > ul {
 /* For vertical menu */
 ul.dropdown-vertical {
 	width: 160px;
+	color:#f335da;
 }
 
 ul.dropdown-vertical ul {
@@ -86,6 +87,7 @@ ul.dropdown-vertical-rtl, ul.dropdown-vertical-rtl ul.dropdown-vertical-rtl, #to
 /* Decoration */
 ul.dropdown {
 	font-weight: bold;
+	
 }
 
 ul.dropdown li {
@@ -119,6 +121,7 @@ ul.dropdown ul {
 ul.dropdown-vertical a {
 	padding: 5px 20px 4px 5px;
 	display: block;
+	color:#C39;
 }
 
 ul.dropdown *.dir {

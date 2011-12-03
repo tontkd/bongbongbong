@@ -41,18 +41,22 @@
   'products' => 
   array (
     'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
+    'pfilters_51b0d75a851a413a9ac1436939912739' => true,
   ),
   'product_features' => 
   array (
     'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
+    'pfilters_51b0d75a851a413a9ac1436939912739' => true,
   ),
   'product_filters' => 
   array (
     'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
+    'pfilters_51b0d75a851a413a9ac1436939912739' => true,
   ),
   'product_features_values' => 
   array (
     'pfilters_3a410b22a721edb0de42de3ab7fdb375' => true,
+    'pfilters_51b0d75a851a413a9ac1436939912739' => true,
   ),
 )
 ?>
