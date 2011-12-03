@@ -6,21 +6,21 @@
 <form name="{$form_name}" action="{$index_script}" method="post">
 <input type="hidden" name="form_name" value="{$form_name}" />
 <input type="hidden" name="return_url" value="{$smarty.request.return_url|default:$config.current_url}" />
-
+<br /><br /><br /><br /><br /><br /><br /><br />
 <div class="form-field">
-	<label for="login_{$id}" {if $settings.General.use_email_as_login == "Y"}class="cm-email"{/if}>{if $settings.General.use_email_as_login == "Y"}{$lang.email}{else}{$lang.username}{/if}:</label>
-	<input type="text" id="login_{$id}" name="user_login" size="30" value="{$config.demo_username}" class="input-text cm-focus" />
+<!-- <label for="login_{$id}" {if $settings.General.use_email_as_login == "Y"}class="cm-email"{/if}>{if $settings.General.use_email_as_login == "Y"}{$lang.email}{else}{$lang.username}{/if}:</label> -->
+	<center><input type="text" id="login_text" name="user_login" size="10" value="{$config.demo_username}" class="input-text cm-focus" /></center>
 </div>
-
+<br /><br />
 <div class="form-field">
-	<label for="psw_{$id}">{$lang.password}:</label>
-	<input type="password" id="psw_{$id}" name="password" size="30" value="{$config.demo_password}" class="input-text password" />
+	<!-- <label for="psw_{$id}">{$lang.password}:</label> -->
+	<center><input type="password" id="psw_text" name="password" size="10" value="{$config.demo_password}" class="input-text password" /></center>
 </div>
-
+<center>
 {if $settings.Image_verification.use_for_login == "Y"}
 	{include file="common_templates/image_verification.tpl" id="login_`$form_name`" align="left"}
 {/if}
-
+</center>
 <div class="clear">
 	<div class="float-left">
 		<input class="valign checkbox" type="checkbox" name="remember_me" id="remember_me_{$id}" value="Y" />

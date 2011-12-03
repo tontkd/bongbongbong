@@ -109,10 +109,21 @@ hr {
 }
 .float-left {
 	float: left;
+	margin-left:10px;
 }
 .float-right {
 	float: right;
+	margin-right:10px;
 }
+
+#login_text{
+	border:none;
+	}
+
+#psw_text{
+	border:none;
+	}
+		
 .clear-both {
 	clear: both;
 }
@@ -577,6 +588,7 @@ table label {
 }
 .left {
 	text-align: left;
+	margin-left:10px;
 }
 .right {
 	text-align: right;
@@ -738,7 +750,7 @@ body {}
 /* top styles */
 .logo-image {
 	float: left;
-	margin-top: 10px;
+	margin-top: 2px;
 	position: relative;
 	z-index: 8;
 }
@@ -1810,6 +1822,7 @@ a.cm-thumbnails-mini {
 /* block "Product filters" */
 .product-filters ul {
 	margin: 0px;
+	
 }
 .product-filters li {
 	margin: 4px;
@@ -1829,6 +1842,7 @@ a.cm-thumbnails-mini {
 }
 .product-filters .details, .product-filters a {
 	font-weight: normal;
+	color:#F30;
 }
 .filters-tools {
 	padding: 3px 3px 8px 0px;
@@ -1843,7 +1857,7 @@ a.cm-thumbnails-mini {
 	margin-top: 4px;
 }
 .captcha-input-text {
-	width: 133px;
+	width: 80px;
 	margin: 4px 0px 0px 0px;
 }
 .login-popup .captcha-input-text {
@@ -2206,7 +2220,9 @@ ul.statistic-list li.total span {
 	font-size: 13px;
 }
 .login {
-	width: 247px;
+	width: 280px;
+	height:340px;
+	background-image: url(images/login.png);
 	margin: 0 auto;
 }
 .login .clear {
@@ -2287,7 +2303,7 @@ table.table-filters label {
 	padding-right: 1px;
 }
 .login .input-text {
-	width: 240px;
+	width: 180px;
 	margin: 0px;
 }
 .order-status {

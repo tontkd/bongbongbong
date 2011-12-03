@@ -1,6 +1,6 @@
 {* $Id: product_images.tpl 7068 2009-03-18 10:51:50Z zeke $ *}
 
-{assign var="th_size" value="34"}
+{assign var="th_size" value="100"}
 {include file="common_templates/previewer.tpl"}
 
 {if $product.main_pair.icon}

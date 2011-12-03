@@ -146,6 +146,10 @@ Press OK to save changes or Cancel to discard them.',
     'weekday_1' => 'Monday',
     'month_name_abr_11' => 'Nov',
     'month_name_11' => 'November',
+    'weekday_abr_6' => 'Sat',
+    'weekday_6' => 'Thứ 7',
+    'month_name_abr_12' => 'Dec',
+    'month_name_12' => 'Tháng 12',
   ),
 )
 ?>
