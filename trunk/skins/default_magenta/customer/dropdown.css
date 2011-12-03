@@ -120,7 +120,8 @@ ul.dropdown ul {
 ul.dropdown-vertical a {
 	padding: 4px 20px 4px 4px;
 	display: block;
-	font: bold 12px Tahoma;
+	font: bold 14px Arial;
+	color:#F60;
 }
 ul.dropdown ul li a {
 	font-size: 11px;

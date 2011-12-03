@@ -3,6 +3,7 @@
 <div class="header-helper-container">
 	<div class="logo-image">
 		<a href="{$index_script}"><img src="{$images_dir}/{$manifest.Customer_logo.filename}" width="{$manifest.Customer_logo.width}" height="{$manifest.Customer_logo.height}" border="0" alt="{$settings.Company.company_name}" /></a>
+        <br/><center><img src="{$images_dir}/banner.jpg" width="1294" height="230" /></center>
 	</div>
 	
 	{include file="top_quick_links.tpl"}
