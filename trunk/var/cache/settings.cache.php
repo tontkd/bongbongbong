@@ -167,7 +167,7 @@
     'category_thumbnail_height' => '120',
     'thumbnail_background_color' => '#ffffff',
   ),
-  'gift_registry_next_check' => '1323027876',
+  'gift_registry_next_check' => '1323134296',
   'lh_visitor_data_last_clean' => '1160220364',
   'Image_verification' => 
   array (
@@ -181,7 +181,7 @@
     'use_for_polls' => 'Y',
     'hide_after_validation' => 'Y',
   ),
-  'cart_products_next_check' => '1323027876',
+  'cart_products_next_check' => '1323134296',
   'translation_mode' => 'N',
   'customization_mode' => 'N',
   'Logging' => 
