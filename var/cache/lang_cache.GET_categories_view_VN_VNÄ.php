@@ -167,6 +167,9 @@ Bấm OK để lưu thay đổi hoặc huỷ bỏ để loại bỏ chúng.',
     'month_name_12' => 'Tháng 12',
     'weekday_abr_0' => 'Sun',
     'weekday_0' => 'Chủ nhật',
+    'gift_certificate' => 'Giấy chứng nhận quà tặng',
+    'weekday_abr_2' => 'Tue',
+    'weekday_2' => 'Thứ 3',
   ),
 )
 ?>

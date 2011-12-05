@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-03 10:03:59
+<?php /* Smarty version 2.6.18, created on 2011-12-06 01:36:02
          compiled from views/products/components/product_options.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -476,4 +476,4 @@ if ($this->_foreach['jj']['total'] > 0):
 //]]>
 </script><?php if (isset($__parent_tpl_vars)) { $__tpl_vars = $__parent_tpl_vars; unset($__parent_tpl_vars);} ?><?php endif; ?><?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_hook($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
 
-<?php endif; ?>
+<?php endif; ?>

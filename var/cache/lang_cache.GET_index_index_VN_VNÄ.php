@@ -152,6 +152,11 @@ Bấm OK để lưu thay đổi hoặc huỷ bỏ để loại bỏ chúng.',
     'weekday_6' => 'Thứ 7',
     'weekday_abr_0' => 'Sun',
     'weekday_0' => 'Chủ nhật',
+    'weekday_abr_1' => 'Mon',
+    'weekday_1' => 'Thứ 2',
+    'weekday_abr_2' => 'Tue',
+    'weekday_2' => 'Thứ 3',
+    'gift_certificate' => 'Giấy chứng nhận quà tặng',
   ),
 )
 ?>

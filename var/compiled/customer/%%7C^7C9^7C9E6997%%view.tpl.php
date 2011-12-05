@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.18, created on 2011-12-04 22:06:05
+<?php /* Smarty version 2.6.18, created on 2011-12-06 01:34:16
          compiled from addons/discussion/views/discussion/view.tpl */ 
  $__tpl_vars = & $this->_tpl_vars;
  ?>
@@ -295,7 +295,7 @@ unset($_smarty_tpl_vars);
 
 <?php if ($__tpl_vars['discussion']['type'] == 'R' || $__tpl_vars['discussion']['type'] == 'B'): ?>
 <div class="form-field">
-lllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
 	<label for="dsc_rating" class="cm-required"><?php echo fn_get_lang_var('your_rating', $this->getLanguage()); ?>
 :</label>
 	<select id="dsc_rating" name="post_data[rating_value]">
