@@ -189,6 +189,8 @@ Bấm OK để lưu thay đổi hoặc huỷ bỏ để loại bỏ chúng.',
     'skin_by' => 'Skin by',
     'weekday_6' => 'Thứ 7',
     'month_name_12' => 'Tháng 12',
+    'gift_certificate' => 'Giấy chứng nhận quà tặng',
+    'weekday_2' => 'Thứ 3',
   ),
 )
 ?>
